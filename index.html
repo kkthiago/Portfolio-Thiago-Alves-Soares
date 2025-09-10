@@ -5,22 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portfólio Thiago Alves Soares</title>
     <link rel="stylesheet" href="./src/styles.css" />
+    <link rel="icon" href="./assets/icon.png" />
   </head>
 
-  <header class="header" id="header">
+  <header class="header">
     <nav class="header__nav">
       <ul class="nav__ul">
         <li class="nav__li">
-          <a class="nav__link" href="#header">Início</a>
+          <a class="nav__link underline-animated" href="#home">Início</a>
         </li>
         <li class="nav__li">
-          <a class="nav__link" href="#sobre">Sobre</a>
+          <a class="nav__link underline-animated" href="#sobre">Sobre</a>
         </li>
         <li class="nav__li">
-          <a class="nav__link" href="#projetos">Projetos</a>
+          <a class="nav__link underline-animated" href="#projetos">Projetos</a>
         </li>
         <li class="nav__li">
-          <a class="nav__link" href="#contatos">Contatos</a>
+          <a class="nav__link underline-animated" href="#contatos">Contatos</a>
         </li>
       </ul>
     </nav>
@@ -28,19 +29,41 @@
 
   <main>
     <body class="body">
-      <div class="home" id="header">
+      <section class="home" id="home">
         <img
           src="./assets/eufoto.jpg"
           class="home__imagemeu"
           alt="imagem minha thiago"
         />
-        <p class="home__titulo">Thiago Alves Soares</p>
+        <h1 class="home__titulo underline-animated">Thiago Alves Soares</h1>
         <p class="home__subtitulo">Desenvolvedor fullstack</p>
-      </div>
+      </section>
 
-      <div class="sobre" id="sobre">
-        <p></p>
-      </div>
+      <section class="sobre" id="sobre">
+        <div class="sobre__background"></div>
+        <h1 class="sobre__titulo">Sobre mim</h1>
+        <p class="sobre__conteudo">
+          Olá! Sou Thiago, um desenvolvedor em início de carreira e entusiasta
+          da tecnologia, com um forte desejo de me especializar em
+          cibersegurança. Aos 18 anos, atuo como Estagiário de Desenvolvimento
+          em TI na Entrepay, onde aplico e expando meus conhecimentos técnicos
+          diariamente, incluindo a sustentação de sistemas. Atualmente, estou no
+          primeiro semestre do curso de Análise e Desenvolvimento de Sistemas e,
+          paralelamente, aprimorando minhas habilidades como desenvolvedor Full
+          Stack em Python na EBAC.
+        </p>
+        <p class="sobre__conteudo">
+          Tenho domínio em Python, JavaScript, FastAPI e desenvolvimento de
+          APIs, além de experiência com bancos de dados PostgreSQL e SQLite.
+          Tenho também conhecimentos em Node.js, React, TypeScript e C. Meu
+          objetivo de carreira é me tornar um especialista em cibersegurança,
+          com foco em Red Team. Sou fluente em inglês e tenho a meta de me
+          tornar poliglota. Minhas principais soft skills são a comunicação
+          clara, a persistência para resolver desafios e uma grande capacidade
+          de adaptação a novos cenários.
+        </p>
+      </section>
+      <script src="script.js"></script>
     </body>
   </main>
 
@@ -54,16 +77,24 @@
       <nav class="footer__nav">
         <ul class="footernav__ul1">
           <li class="footernav__li">
-            <a class="footernav__link" href="#header">Home</a>
+            <a class="footernav__link underline-animated" href="#header"
+              >Home</a
+            >
           </li>
           <li class="footernav__li">
-            <a class="footernav__link" href="#sobre">Sobre</a>
+            <a class="footernav__link underline-animated" href="#sobre"
+              >Sobre</a
+            >
           </li>
           <li class="footernav__li">
-            <a class="footernav__link" href="#projetos">Projetos</a>
+            <a class="footernav__link underline-animated" href="#projetos"
+              >Projetos</a
+            >
           </li>
           <li class="footernav__li">
-            <a class="footernav__link" href="#contatos">Contatos</a>
+            <a class="footernav__link underline-animated" href="#contatos"
+              >Contatos</a
+            >
           </li>
         </ul>
       </nav>
@@ -93,6 +124,7 @@
 
   "
               target="_blank"
+              rel="noopener noreferrer"
             >
               <img
                 class="imagem__link"
