@@ -97,7 +97,6 @@ O projeto está organizado da seguinte forma para manter a separação de respon
 
 - 🌎 [LinkedIn](https://www.linkedin.com/in/thiago-alves-soares-453700303/?locale=en_US)
 - 💻 [GitHub](https://github.com/kkthiago)
-- 📱 [WhatsApp](https://wa.me/5511986786340?text=Olá%20Thiago,%20vim%20pelo%20seu%20site%20e%20adoraria%20conhecer-lo%20profissionalmente%20melhor!%20%F0%9F%91%8B)
 
 ---
 
