@@ -7,14 +7,14 @@ Este é um projeto _one-page_ desenvolvido para apresentar minha trajetória com
 
 ## 📋 Índice
 
-- [Sobre o Projeto](https://www.google.com/search?q=%23-sobre-o-projeto)
-- [✨ Funcionalidades e Features](https://www.google.com/search?q=%23-funcionalidades-e-features)
-- [🛠️ Tecnologias Utilizadas](https://www.google.com/search?q=%23-tecnologias-utilizadas)
-- [📂 Estrutura de Arquivos](https://www.google.com/search?q=%23-estrutura-de-arquivos)
-- [🚀 Como Executar](https://www.google.com/search?q=%23-como-executar)
-- [📷 Prévia do Projeto](https://www.google.com/search?q=%23-pr%C3%A9via-do-projeto)
-- [📬 Contato](https://www.google.com/search?q=%23-contato)
-- [📝 Licença](https://www.google.com/search?q=%23-licen%C3%A7a)
+- **[Sobre o Projeto]**
+- **[✨ Funcionalidades e Features]**
+- **[🛠️ Tecnologias Utilizadas]**
+- **[📂 Estrutura de Arquivos]**
+- **[🚀 Como Executar]**
+- **[📷 Prévia do Projeto]**
+- **[📬 Contato]**
+- **[📝 Licença]**
 
 ---
 
